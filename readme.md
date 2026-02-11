@@ -26,7 +26,7 @@ O catálogo utiliza a [The Movie Database API](https://www.themoviedb.org/docume
    ```bash
    git clone https://github.com/seu-usuario/catalogo-filmes.git
 
-2. Explore o Catálogo de Filmes: https://glistening-choux-e20ec6.netlify.app/
+2. Explore o Catálogo de Filmes: [https://glistening-choux-e20ec6.netlify.app/](https://buscadorfilme.netlify.app/)
 
 ## Contato
 
